@@ -8,5 +8,8 @@ var class_m_q_t_t_client =
     [ "publish", "class_m_q_t_t_client.html#ace3ee45313dea2f853207accf20b7c87", null ],
     [ "publish", "class_m_q_t_t_client.html#ab59a1174098dfdf514d8ec6d0bd9d015", null ],
     [ "subscribe", "class_m_q_t_t_client.html#a9488df90534953c33d76e9183965a300", null ],
-    [ "unsubscribe", "class_m_q_t_t_client.html#a782158f20b289746b7b6884fd922a22c", null ]
+    [ "unsubscribe", "class_m_q_t_t_client.html#a782158f20b289746b7b6884fd922a22c", null ],
+    [ "_packetId", "class_m_q_t_t_client.html#a767cd17d135e6a7e4781ab631667bebe", null ],
+    [ "_port", "class_m_q_t_t_client.html#aeb9779f5a8754040c0d0450312d77a9e", null ],
+    [ "_tl", "class_m_q_t_t_client.html#a9ace18b79804924fedf47b80111072a0", null ]
 ];

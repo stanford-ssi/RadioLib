@@ -6,6 +6,7 @@ var searchData=
   ['pinmode',['pinMode',['../class_module.html#af7e4872dad3d19b6f75f532c88683168',1,'Module']]],
   ['post',['post',['../class_h_t_t_p_client.html#ac1119b889b6fed7bd4d119d3e4842acb',1,'HTTPClient']]],
   ['preamble_5fdetected',['PREAMBLE_DETECTED',['../group__status__codes.html#gae20ae543b703697fa7bebfcec73617ee',1,'TypeDef.h']]],
+  ['printfloat',['printFloat',['../class_r_t_t_y_client.html#acea982a58c03e2744d9e229198c339f2',1,'RTTYClient']]],
   ['printglyph',['printGlyph',['../class_hell_client.html#ac527806ef871dc12555afe7c43a72ed9',1,'HellClient']]],
   ['protocolid',['protocolID',['../class_a_x25_frame.html#aa8895fea37220c82f68bd320331595c8',1,'AX25Frame']]],
   ['publish',['publish',['../class_m_q_t_t_client.html#ace3ee45313dea2f853207accf20b7c87',1,'MQTTClient::publish(String &amp;topic, String &amp;message)'],['../class_m_q_t_t_client.html#ab59a1174098dfdf514d8ec6d0bd9d015',1,'MQTTClient::publish(const char *topic, const char *message)']]]

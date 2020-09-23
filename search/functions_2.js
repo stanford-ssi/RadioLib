@@ -7,6 +7,6 @@ var searchData=
   ['cleargdo0action',['clearGdo0Action',['../class_c_c1101.html#ab5e6b3745f80cf61e1ced33303311df8',1,'CC1101']]],
   ['cleargdo2action',['clearGdo2Action',['../class_c_c1101.html#ac7a8b1fe7d08dc6db20cf1569b0d37b4',1,'CC1101']]],
   ['clearirqaction',['clearIrqAction',['../class_si443x.html#a8d019f58551346c3f3bd8b72d2486109',1,'Si443x']]],
-  ['closetransportconnection',['closeTransportConnection',['../class_e_s_p8266.html#a03a36205262784bbd15fdd87315ef996',1,'ESP8266::closeTransportConnection()'],['../class_transport_layer.html#a82fc1c71a0f6d0aac1be7f6c184a0021',1,'TransportLayer::closeTransportConnection()']]],
+  ['closetransportconnection',['closeTransportConnection',['../class_e_s_p8266.html#aa71846340d1a679a12ddb9b9597f8f91',1,'ESP8266::closeTransportConnection()'],['../class_transport_layer.html#a82fc1c71a0f6d0aac1be7f6c184a0021',1,'TransportLayer::closeTransportConnection()']]],
   ['connect',['connect',['../class_m_q_t_t_client.html#ac15b32e89df903b20b066113bf8c4a88',1,'MQTTClient']]]
 ];

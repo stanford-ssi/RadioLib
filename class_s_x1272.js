@@ -1,17 +1,25 @@
 var class_s_x1272 =
 [
     [ "SX1272", "class_s_x1272.html#a9ffe467a6baaeaa079e02c3f1f43f626", null ],
-    [ "begin", "class_s_x1272.html#a50dcd5085da95f6cb837d1a7cb8f0172", null ],
-    [ "beginFSK", "class_s_x1272.html#aeba50e954593e383c9bf0a03b6c22b8f", null ],
+    [ "autoLDRO", "class_s_x1272.html#abb4bbfe8acc6026c833d267d78417b63", null ],
+    [ "begin", "class_s_x1272.html#aaa5a787164fb216c12b8dea4d810f7f3", null ],
+    [ "beginFSK", "class_s_x1272.html#a2ee9fb48eeaf41876de00d3774be78cf", null ],
+    [ "configFSK", "class_s_x1272.html#a0e6bcbc0a807ac348416f72c5c4d2c1b", null ],
+    [ "forceLDRO", "class_s_x1272.html#a4aaf9d61310fa7b4fce413ae53d30ac0", null ],
     [ "getRSSI", "class_s_x1272.html#af5a7dee50a1a7d8261bc62bb869cda92", null ],
-    [ "reset", "class_s_x1272.html#a9e4aa77f9597b3716fb36afa4c3bb25b", null ],
+    [ "reset", "class_s_x1272.html#a0978cc9ecbb7b9d3a017c133506e57ac", null ],
     [ "setBandwidth", "class_s_x1272.html#a0cc8eeb00241031796fc73b08711469b", null ],
+    [ "setBandwidthRaw", "class_s_x1272.html#a5a51d65381d6170b09da810ab022020b", null ],
     [ "setCodingRate", "class_s_x1272.html#a960913438feccad4c1913a9222384a5f", null ],
+    [ "setCodingRateRaw", "class_s_x1272.html#a1e13649e8e293b43a586779c176c967a", null ],
     [ "setCRC", "class_s_x1272.html#a5a57abb0bc9f474452ffb828b13d1efb", null ],
-    [ "setDataShaping", "class_s_x1272.html#adeb9651f3747fb69514f2a61ebd78f64", null ],
+    [ "setDataShaping", "class_s_x1272.html#a91aca64124321c07a67f26b3c6934aea", null ],
     [ "setDataShapingOOK", "class_s_x1272.html#a3a377445cb4b8fd41781a3210a819a47", null ],
     [ "setFrequency", "class_s_x1272.html#af409f50e51042cf9357c0a8267f762f8", null ],
     [ "setGain", "class_s_x1272.html#ae1c57ad5e8496dc28cd3ba9852809852", null ],
     [ "setOutputPower", "class_s_x1272.html#ae3596f303714509f552d98321bdfce5c", null ],
-    [ "setSpreadingFactor", "class_s_x1272.html#a82084ac58502c83d2ada998410307490", null ]
+    [ "setSpreadingFactor", "class_s_x1272.html#a82084ac58502c83d2ada998410307490", null ],
+    [ "setSpreadingFactorRaw", "class_s_x1272.html#abb347a3f5abc81789362d589f5859f47", null ],
+    [ "_ldroAuto", "class_s_x1272.html#a02e43e844266f3038a9d885a13b36f0d", null ],
+    [ "_ldroEnabled", "class_s_x1272.html#a9676cda19e8b33027f46e9e790e51731", null ]
 ];

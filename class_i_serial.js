@@ -5,9 +5,6 @@ var class_i_serial =
     [ "begin", "class_i_serial.html#ac88cbd52dd52081012c7ebc5e4877a71", null ],
     [ "end", "class_i_serial.html#a9ab275543e32bbd26093936e93901a64", null ],
     [ "flush", "class_i_serial.html#a5073d939918c6ae56e1eb28da4362fc8", null ],
-    [ "isListening", "class_i_serial.html#ad1feecdc069507a8936bdee4258868ff", null ],
-    [ "listen", "class_i_serial.html#a2fa237fec86b8aa38d9aa7c43f46b897", null ],
-    [ "overflow", "class_i_serial.html#a27aa7bc73bb338e26bc757ab82ce4452", null ],
     [ "peek", "class_i_serial.html#aaec3e37c852ab96dc0cb406f25927020", null ],
     [ "print", "class_i_serial.html#a71ff41667bb4cb865fae0cb392ba2480", null ],
     [ "print", "class_i_serial.html#afa73455a632e6c6819a2552ad58d3e4a", null ],
@@ -33,6 +30,6 @@ var class_i_serial =
     [ "println", "class_i_serial.html#a0607b2c508006f1e43d685404be50f23", null ],
     [ "println", "class_i_serial.html#ab9bb40acf5dd420afed4ea80d7989a20", null ],
     [ "read", "class_i_serial.html#a59bdc39fa8633f3bb6154dacb043ae10", null ],
-    [ "stopListening", "class_i_serial.html#adb17d4510a5e3226aa694132a3617ab6", null ],
-    [ "write", "class_i_serial.html#a0e3eac99b53d90cd8c725a5cc409e438", null ]
+    [ "write", "class_i_serial.html#a0e3eac99b53d90cd8c725a5cc409e438", null ],
+    [ "_mod", "class_i_serial.html#a59b7807c08f8bdc4c8612fe02ee528c1", null ]
 ];

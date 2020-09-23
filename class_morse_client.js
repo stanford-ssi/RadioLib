@@ -1,6 +1,7 @@
 var class_morse_client =
 [
     [ "MorseClient", "class_morse_client.html#aeade3a433da40e6a9f28688f2e6e3b5a", null ],
+    [ "MorseClient", "class_morse_client.html#aa5c8ec6823388877b7acfa0deab689a2", null ],
     [ "begin", "class_morse_client.html#a516f19bb51b87ead7f7ed149f2ca92cf", null ],
     [ "print", "class_morse_client.html#a051cba718c88b0d25a0f6f6dbfeb1e46", null ],
     [ "print", "class_morse_client.html#a2040051afe09bbd4fada12bdf76203b1", null ],
@@ -12,9 +13,10 @@ var class_morse_client =
     [ "print", "class_morse_client.html#a1b7a4467adf49a3afa062fc93bf6f80f", null ],
     [ "print", "class_morse_client.html#abcbc1b964ddb20984c3d6f32f07c8cce", null ],
     [ "print", "class_morse_client.html#a64e20542281e100ab92ebe5e8f915c3c", null ],
+    [ "printFloat", "class_morse_client.html#a961228a49bdb300cd01f81f59335e70f", null ],
     [ "println", "class_morse_client.html#ae1dd17e96858c9b6948ee7e5871c7efd", null ],
     [ "println", "class_morse_client.html#a2f4433a88741564f28f673cf51486615", null ],
-    [ "println", "class_morse_client.html#afd7b0a83f09fca187498377e2ffa6333", null ],
+    [ "println", "class_morse_client.html#a83a064f138d5bf55420ffbfd534dacfb", null ],
     [ "println", "class_morse_client.html#a178726e7279d49d873c715371d558751", null ],
     [ "println", "class_morse_client.html#aa26d803db2d9ab6f3b13f843811f923f", null ],
     [ "println", "class_morse_client.html#a7eecc8f5a61115b39fa67f1f7be4747e", null ],
@@ -23,8 +25,16 @@ var class_morse_client =
     [ "println", "class_morse_client.html#afea22f16b6360e122116da4b7b6cc2f7", null ],
     [ "println", "class_morse_client.html#a95d0edd2ab9a590668c6aaa67a893c49", null ],
     [ "println", "class_morse_client.html#af466855a342b3cc70b496a79caf65232", null ],
+    [ "printNumber", "class_morse_client.html#a5161af90af04868e20089adcda280520", null ],
+    [ "standby", "class_morse_client.html#acf595b1d0a3f20109624c0a4ca1de338", null ],
     [ "startSignal", "class_morse_client.html#a3c718208786f8fe55f30eee990ec28e3", null ],
+    [ "transmitDirect", "class_morse_client.html#a4727b6509970e2124242e9a14b72ba83", null ],
     [ "write", "class_morse_client.html#a1be826249b4936e2b0bca20311714726", null ],
     [ "write", "class_morse_client.html#a9b46b2755abd59ece4abd69fab4f7808", null ],
-    [ "write", "class_morse_client.html#abd37869212f3338eb7c95c6f16dadbba", null ]
+    [ "write", "class_morse_client.html#abd37869212f3338eb7c95c6f16dadbba", null ],
+    [ "_audio", "class_morse_client.html#a9815381fb742a66282b44bf44ab9ff8a", null ],
+    [ "_base", "class_morse_client.html#ae5f168902c6953aa2ed473f8819b3aa2", null ],
+    [ "_baseHz", "class_morse_client.html#a5cb33ef7851664ae96f67d4e26e93eb5", null ],
+    [ "_dotLength", "class_morse_client.html#ab97ae5c41c20b98861eb69f9c552e975", null ],
+    [ "_phy", "class_morse_client.html#a7471ba34b6902ade2041aec09e817e17", null ]
 ];

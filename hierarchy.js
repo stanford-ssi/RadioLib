@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "AFSKClient", "class_a_f_s_k_client.html", null ],
     [ "AX25Client", "class_a_x25_client.html", null ],
     [ "AX25Frame", "class_a_x25_frame.html", null ],
     [ "HellClient", "class_hell_client.html", null ],
