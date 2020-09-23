@@ -1,3 +1,4 @@
+//Edited by timv 2020-09
 #ifndef _RADIOLIB_BUILD_OPTIONS_H
 #define _RADIOLIB_BUILD_OPTIONS_H
 
@@ -6,6 +7,12 @@
 #else
   #error "Unsupported Arduino version (< 1.0.0)"
 #endif
+
+#define RADIOLIB_STATIC_ONLY
+#define RADIOLIB_GODMODE
+#include "SPI.h"
+extern SPIClass SPI; //these are dummy
+extern Uart Serial1;
 
 /*
  * Platform-specific configuration.

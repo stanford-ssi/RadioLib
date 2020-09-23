@@ -47,7 +47,7 @@
 
 // check God mode
 #ifdef RADIOLIB_GODMODE
-  #warning "God mode active, I hope it was intentional. Buckle up, lads."
+  //#warning "God mode active, I hope it was intentional. Buckle up, lads."
 #endif
 
 // print debug info
